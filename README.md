@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 ===============================================================================
 PROJECT: Plastic Ratio Computation Engine
 ===============================================================================
@@ -13,3 +16,9 @@ ALGORITHM & MATHEMATICS:
     f'(x) = 3*x^2 - 1
 - Dynamic Precision Doubling: Quadruples execution speed by doubling mpmath working 
   precision each iteration step.
+
+## Usage
+
+```bash
+python "Plastic Ratio.py" --help
+```
